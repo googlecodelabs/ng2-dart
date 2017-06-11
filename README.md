@@ -3,7 +3,7 @@ Dart + Angular 2 Code Lab Samples
 
 These are small Dart samples used by the Dart Angular 2 codelab:
 
-* [Avast Ye, Pirates](https://codelabs.developers.google.com/io2016/ng2-dart),
+* [Avast Ye, Pirates](https://webdev.dartlang.org/codelabs/ng2),
   where you learn to build a web app.
 
 Project structure
